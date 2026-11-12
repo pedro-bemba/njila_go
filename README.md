@@ -64,16 +64,6 @@ O Njila-Go disponibiliza:
 - Relatório mensal em PDF/CSV.
 - SMS de confirmação e avisos essenciais.
 
-## Fora do MVP
-
-- USSD.
-- IVR automático com reconhecimento de voz.
-- Pagamentos digitais completos.
-- Frota própria adaptada.
-- Aprendizagem automática avançada de ruas.
-- Servidores MCP em produção.
-- Escala multi-província.
-
 ## Arquitectura e Stack
 
 - **App Cliente:** Flutter, Android primeiro.
